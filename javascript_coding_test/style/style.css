@@ -61,7 +61,7 @@
 }
 
 input[type] :valid {
-    border-color: rgb(6, 37, 6);
+    border: 2px solid rgb(6, 37, 6);
   }
   input[type]:invalid{
       border-color: red;
